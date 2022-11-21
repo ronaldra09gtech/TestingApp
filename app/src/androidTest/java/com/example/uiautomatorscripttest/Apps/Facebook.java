@@ -269,6 +269,7 @@ public class Facebook {
             return false;
         }
     }
+
     private boolean clickUSEButton() {
         boolean value = false;
         try {
@@ -409,6 +410,7 @@ public class Facebook {
         }
         return value;
     }
+
     private boolean clickVideos() {
         boolean value = false;
         try {
@@ -752,6 +754,7 @@ public class Facebook {
             return false;
         }
     }
+
     private boolean kpiCalculation() {
         try {
             Thread.sleep(10000);
