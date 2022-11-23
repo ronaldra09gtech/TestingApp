@@ -1,14 +1,10 @@
 package com.example.uiautomatorscripttest.Apps;
 
-import android.graphics.Rect;
 import android.support.test.uiautomator.UiDevice;
 import android.support.test.uiautomator.UiObject;
 import android.support.test.uiautomator.UiScrollable;
 import android.support.test.uiautomator.UiSelector;
 import android.util.Log;
-
-
-import androidx.constraintlayout.solver.GoalRow;
 
 import com.example.uiautomatorscripttest.ExampleInstrumentedTest;
 import com.example.uiautomatorscripttest.Interfaces.GlobalVariables;
@@ -16,7 +12,6 @@ import com.example.uiautomatorscripttest.Utility.DataHolder;
 
 import org.apache.commons.lang3.time.StopWatch;
 
-import java.sql.Time;
 import java.sql.Timestamp;
 import java.util.Date;
 
